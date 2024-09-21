@@ -1,1 +1,2 @@
 # project-management-tool
+This course project focuses on the design of a project management tool with a user-centric UI/UX approach. The tool enables users to store project details and update the status of their tasks efficiently. The design emphasizes usability, allowing for intuitive navigation and easy management of ongoing projects. This project was developed as part of a Human-Computer Interaction course, where the goal was to create a seamless and functional interface for task tracking and project updates.
